@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Seecure-
 2025 Qualcomm project
 
@@ -16,3 +17,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+=======
+# 23
+>>>>>>> 4ac7648c26002bc5f5dcc084f745a1d3b6117938
